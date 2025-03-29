@@ -4,3 +4,9 @@ easy-work-web-rpc/easy-consumer/target
 easy-work-web-rpc/easy-provider/target
 easy-work-web-rpc/.idea
 
+work-web-rpc/easy-rpc/target
+work-web-rpc/easy-common/target
+work-web-rpc/easy-consumer/target
+work-web-rpc/easy-provider/target
+work-web-rpc/.idea
+
